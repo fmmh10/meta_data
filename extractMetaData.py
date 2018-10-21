@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+"""
+Created by: Francisco Henriques
+email: franciscohenriques.97@gmail.com
+"""
 import argparse
 from PIL import Image
 from PIL.ExifTags import TAGS
